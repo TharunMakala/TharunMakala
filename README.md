@@ -77,6 +77,18 @@ My bias: strong defaults, small composable modules, and failures that point at t
 
 ---
 
+### Certifications
+
+<p>
+  <img alt="AZ-400" src="https://img.shields.io/badge/Microsoft-AZ--400%20DevOps%20Engineer%20Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img alt="AZ-104" src="https://img.shields.io/badge/Microsoft-AZ--104%20Azure%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+</p>
+
+- **AZ-400** — Microsoft Certified: DevOps Engineer Expert
+- **AZ-104** — Microsoft Certified: Azure Administrator Associate
+
+---
+
 ### Focus areas
 
 - **Reliability** — error budgets that drive real decisions, not dashboards no one reads.
